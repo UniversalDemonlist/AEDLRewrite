@@ -9,8 +9,20 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "PLACEHOLDER",
-            "link": "https://www.youtube.com/watch?v=wZwCXjVdqz0",
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=KaA6csT7Zo8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cursed",
+            "link": "https://www.youtube.com/watch?v=BmyCLv1gqyo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Zeroxy",
+            "link": "https://www.youtube.com/watch?v=gqEVuyHOvbQ",
             "percent": 100,
             "hz": 360
         }
