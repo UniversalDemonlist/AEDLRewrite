@@ -9,7 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-
+            "user": "PLACEHOLDER",
+            "link": "https://www.youtube.com/watch?v=wZwCXjVdqz0",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
