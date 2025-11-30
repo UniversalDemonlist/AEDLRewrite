@@ -10,7 +10,21 @@
     "records": [
         {
             "user": "Zoink",
-            "link": "https://www.youtube.com/watch?v=wZwCXjVdqz0",
+            "link": "https://www.youtube.com/watch?v=iI0hymTllo0",
+            "percent": 100,
+            "hz": 360
+
+        },
+        {
+            "user": "w3rty",
+            "link": "https://www.youtube.com/watch?v=vI28nQFN9C4",
+            "percent": 100,
+            "hz": 360
+
+        },
+        {
+            "user": "nickname",
+            "link": "https://www.youtube.com/watch?v=70DK4hNHO4g",
             "percent": 100,
             "hz": 360
 
