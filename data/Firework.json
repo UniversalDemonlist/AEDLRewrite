@@ -8,9 +8,21 @@
     "percentToQualify": 72,
     "password": "Not Copyable",
     "records": [
+         {
+            "user": "Crisis",
+            "link": "https://www.youtube.com/watch?v=diNjkbqdxYE",
+            "percent": 100,
+            "hz": 360
+        },
         {
-            "user": "PLACEHOLDER",
-            "link": "https://www.youtube.com/watch?v=wZwCXjVdqz0",
+            "user": "Gokill",
+            "link": "https://www.youtube.com/watch?v=keVlE1KsJDE",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Hover",
+            "link": "https://www.youtube.com/watch?v=bfZq2Jpa1YE",
             "percent": 100,
             "hz": 360
         }
