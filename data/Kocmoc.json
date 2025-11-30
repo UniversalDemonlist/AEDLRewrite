@@ -8,9 +8,21 @@
     "percentToQualify": 72,
     "password": "Not Copyable",
     "records": [
+         {
+            "user": "Trick",
+            "link": "https://www.youtube.com/watch?v=6pl-Rb2mIPA",
+            "percent": 100,
+            "hz": 360
+        },
         {
-            "user": "PLACEHOLDER",
-            "link": "https://www.youtube.com/watch?v=wZwCXjVdqz0",
+            "user": "Cursed",
+            "link": "https://www.youtube.com/watch?v=AUOpLok85SU",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Arshadow",
+            "link": "https://www.youtube.com/watch?v=AKYAtYdqA18",
             "percent": 100,
             "hz": 360
         }
