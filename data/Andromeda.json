@@ -27,6 +27,12 @@
             "link": "https://www.youtube.com/watch?v=70DK4hNHO4g",
             "percent": 100,
             "hz": 360
-        }
+        },
+        {
+            "user": "PowerGreen",
+            "link": "https://www.youtube.com/watch?v=tXPgH_kaGvI",
+            "percent": 100,
+            "hz": 60
+        }        
     ]
 }
