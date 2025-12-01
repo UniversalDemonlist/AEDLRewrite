@@ -1,0 +1,30 @@
+{
+    "id": 116732736,
+    "name": "Saul Goodman",
+    "author": "cherryteam",
+    "creators": ["cherryteam"],
+    "verifier": "maybee",
+    "verification": "https://www.youtube.com/watch?v=TvA8EJTJFCc",
+    "percentToQualify": 72,
+    "password": "Not Copyable",
+    "records": [
+         {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=7vvcfnfpm4s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "BigThunder556",
+            "link": "https://www.youtube.com/watch?v=dNQMt4aQdWE",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Thnnder",
+            "link": "https://www.youtube.com/watch?v=hxEBOg0_KnM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
