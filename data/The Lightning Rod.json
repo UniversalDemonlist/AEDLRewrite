@@ -9,20 +9,8 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Zoink",
-            "link": "https://www.youtube.com/watch?v=Y7GY3V2oPWQ",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "Whizkid05",
             "link": "https://www.youtube.com/watch?v=YsZ6iWW7r7Q",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Trick",
-            "link": "https://www.youtube.com/watch?v=eGAMEL8qkCE",
             "percent": 100,
             "hz": 360
         }
